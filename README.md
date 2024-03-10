@@ -16,7 +16,7 @@
 
 💬 Ask me about **Node.js, React, MongoDB**
 
-⚡ Fun fact **I like Basketball and Workout**
+⚡ Fun fact **I love doing workout and playing basketball**
 
  </div>
  
