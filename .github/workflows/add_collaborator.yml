@@ -1,0 +1,23 @@
+name: Add Friend as Collaborator
+
+on:
+  repository:
+    types: [created]
+
+jobs:
+  add-collaborator:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Add collaborator
+        uses: actions/github-script@v5
+        with:
+          script: |
+            const { owner, repo } = context.repo;
+            const friendUsername = 'harshey0'; // Replace with your friend's GitHub username
+            const octokit = github.getOctokit(process.env.GITHUB_TOKEN);
+            await octokit.repos.addCollaborator({
+              owner,
+              repo,
+              username: friendUsername,
+              permission: 'admin' // Adjust permission level as needed
+            });
