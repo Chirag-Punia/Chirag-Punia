@@ -12,9 +12,9 @@
  
  🔭 I’m currently working on **a Chat app**
  
- 🌱 I’m currently learning **Spring boot, Socket.io, SQL**
+ 🌱 I’m currently exploring **Web 3.0, WebRTC**
 
-💬 Ask me about **Node.js, React, MongoDB**
+💬 Ask me about **Express.js, React.js, MongoDB**
 
 ⚡ Fun fact **I love doing workout and playing basketball**
 
@@ -69,8 +69,5 @@
 
 <br/>
 
-<div align="center">
-<a href='https://ko-fi.com/chiragpunia#paypalModal' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
 
 <br/>
