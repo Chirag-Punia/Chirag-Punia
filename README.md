@@ -1,20 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Chirag Punia's Readme</title>
-  <style>
-    body {
-      background-color: #1a1a1a; /* Dark background color */
-      color: #ffffff; /* White text */
-      font-family: Arial, sans-serif; /* Optional: Font style */
-      margin: 0; /* Remove default margin */
-      padding: 0; /* Remove default padding */
-    }
-    /* Add additional styles as needed */
-  </style>
-</head>
 <body>
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Chirag-Punia.Chirag-Punia" />
 
